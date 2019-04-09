@@ -1,7 +1,6 @@
 # corewar
 Our own [Core War](https://en.wikipedia.org/wiki/Core_War) AI champion, assembler, disassembler, and virtual machine in C using [ncurses](https://en.wikipedia.org/wiki/Ncurses) and [minilibx](https://github.com/qst0/ft_libgfx). (42 Silicon Valley)
 
-
 <p float="left">
   <img src="https://github.com/ashih42/corewar/blob/master/Screenshots/ncurses.png" width="420" />
   <img src="https://github.com/ashih42/corewar/blob/master/Screenshots/rainbow_road.png" width="300" />
