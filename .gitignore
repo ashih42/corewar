@@ -1,0 +1,8 @@
+.DS_Store
+._*
+*.o
+*.a
+asm
+disasm
+corewar
+objs_champ
