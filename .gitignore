@@ -6,3 +6,4 @@ asm
 disasm
 corewar
 objs_champ
+*.cor

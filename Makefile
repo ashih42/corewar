@@ -167,7 +167,7 @@ $(DISASM): $(OBJS_DISASM)
 		"champions, and I shall reveal the inner workings of their source"\
 		"design!]\x1b[0m"
 	@echo
- 
+
 #COMPILING CHAMPIONS
 $(OBJDIR_CHAMP)%.cor: $(SRCDIR_CHAMP)%.s
 	@/bin/mkdir -p $(OBJDIR_CHAMP)
