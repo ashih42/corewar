@@ -6,6 +6,8 @@ Our own [Core War](https://en.wikipedia.org/wiki/Core_War) AI champion, assemble
   <img src="https://github.com/ashih42/corewar/blob/master/Screenshots/rainbow_road.png" width="300" />
 </p>
 
+(This screenshot shows **Player 2 (Chicken)** is currently in the lead...)
+
 ## Objectives
 * AI champion program, e.g. `srcs_champ/plagiarism.s`
   * Written in [42 corewar variant](https://github.com/ashih42/corewar/blob/master/Requirements/corewar.en.pdf) assembly instruction set
